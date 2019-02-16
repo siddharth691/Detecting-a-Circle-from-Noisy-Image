@@ -12,7 +12,7 @@ Requirements:
 
 Directory Structure and Files:
 ------------------------------
-1. Trained_models/Models -- Contains the final trained model
+1. Trained_models/Models -- Contains the final trained model (Email me at siddharth691@gmail.com if you want link to trained weights)
 2. data/train - contains the training data (30,000) images and labels.csv file (Not provided to keep the size small)
 3. data/test - contains the testing data (4000) images and labels.csv file (Not provided to keep the size small) (two images are given for demo purposes)
 4. data/validation - contains the validation data (4000) images and labels.csv file (Not provided to keep the size small)
